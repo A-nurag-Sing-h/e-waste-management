@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://e-waste-management-4jcc.onrender.com/api';
 
 const api = {
   async get(endpoint, requireAuth = true) {
